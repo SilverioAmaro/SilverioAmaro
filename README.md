@@ -1,5 +1,8 @@
 ### HI THERE 👋
 
+https://raw.githubusercontent.com/SilverioAmaro/SilverioAmaro/main/Addfilesviaupload/Diseñosintítulo.png
+
+
 Hola a todos, tengo 21 años y muchas ganas de aprender sobre todo este gran mundo de la programación.  
 
 - Estudiante de 5to semestre en el Instituto Tecnologico de Tijuana. 
