@@ -1,4 +1,4 @@
-### HI THERE 👋
+### HOLA A TODOS 👋
 
 
 Hola a todos, tengo 21 años y muchas ganas de aprender sobre todo este gran mundo de la programación.  
