@@ -8,6 +8,12 @@ Hola a todos, tengo 21 años y muchas ganas de aprender sobre todo este gran mun
 - Aprendiz de todo, maestro de nada. 
 - Estudiante de la Carrera de Ingeniería en Sistemas Computacionales. 
 
+
+
+
+
+
+
 |       |                 LUNES                 |                 MARTES                |               MIÉRCOLES               |                 JUEVES                |            VIERNES           |
 |:-----:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:----------------------------:|
 | 06:00 |                                       |                                       |                                       |                                       |                              |
@@ -22,3 +28,9 @@ Hola a todos, tengo 21 años y muchas ganas de aprender sobre todo este gran mun
 | 15:00 | FUNDAMENTOS DE INGENIERIA DE SOFTWARE | FUNDAMENTOS DE INGENIERIA DE SOFTWARE | FUNDAMENTOS DE INGENIERIA DE SOFTWARE | FUNDAMENTOS DE INGENIERIA DE SOFTWARE |                              |
 | 16:00 | FUNDAMENTOS DE TELECOMUNICACIONES     | FUNDAMENTOS DE TELECOMUNICACIONES     | FUNDAMENTOS DE TELECOMUNICACIONES     | FUNDAMENTOS DE TELECOMUNICACIONES     |                              |
 | 17:00 | SISTEMAS PROGRAMABLES                 | SISTEMAS PROGRAMABLES                 | SISTEMAS PROGRAMABLES                 | SISTEMAS PROGRAMABLES                 |                              |
+
+
+
+
+
+
