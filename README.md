@@ -7,6 +7,7 @@ Hola a todos, tengo 21 años y muchas ganas de aprender sobre todo este gran mun
 - Graduado de la Preparatoria Federal Lazaro Cardenas II.
 - Aprendiz de todo, maestro de nada. 
 - Estudiante de la Carrera de Ingeniería en Sistemas Computacionales. 
+
 |       |                 LUNES                 |                 MARTES                |               MIÉRCOLES               |                 JUEVES                |            VIERNES           |
 |:-----:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:----------------------------:|
 | 06:00 |                                       |                                       |                                       |                                       |                              |
